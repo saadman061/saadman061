@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React  , Vue.Js ...
 
 - 📫 Feel free to contact me at any time. Thanks.
-https://findsaadman.kdicbd.com/
+https://findsaadman.com/
 
 <!---
 saadman061/saadman061 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
